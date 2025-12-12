@@ -1,0 +1,5 @@
+{
+  "name": "Synesthesia: Idea Visualizer",
+  "description": "An interactive AI experience that transforms your thoughts into a multisensory card containing poetic analysis, data visualization, and dynamic color palettes using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
